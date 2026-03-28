@@ -1,13 +1,13 @@
-package com.github.kevinnowak.movie_rental_be;
+package com.github.kevinnowak.movie_rental.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MovieRentalBeApplication {
+public class BackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MovieRentalBeApplication.class, args);
+		SpringApplication.run(BackendApplication.class, args);
 	}
 
 }

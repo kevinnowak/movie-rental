@@ -2,3 +2,5 @@
 java = "liberica-25"
 maven = "3.9"
 node = "24"
+terraform = "1.14.8"
+aws-cli = "2.34.19"
